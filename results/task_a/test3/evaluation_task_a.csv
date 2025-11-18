@@ -1,0 +1,2 @@
+accuracy,macro_f1,weighted_f1,macro_precision,macro_recall,task_type
+0.809,0.8057779652071257,0.8058830315590673,0.829634185265208,0.808473301469038,a
